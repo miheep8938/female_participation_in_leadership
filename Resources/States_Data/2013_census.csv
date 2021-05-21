@@ -1,0 +1,37 @@
+﻿Year,Label,US_Total,US_Male_Percent,US_Female_Percent,US_Total_Median_Earnings ,US_Median_Earnings_Male,US_Median_Earnings_Female,US_Total_Earnings_Male,US_Total_Earnings_Female
+2013,Civilian employed population 16 years and over,"145,128,676",52.50%,47.50%,"32,387","39,530","27,627",0,0
+2013,"Management, business, science, and arts occupations:","52,753,573",47.80%,52.20%,"52,478","65,997","45,722",0,0
+2013,"    Management, business, and financial occupations:","21,201,006",55.60%,44.40%,"61,059","71,340","51,203",0,0
+2013,        Management occupations,"14,257,292",60.80%,39.20%,"64,994","74,433","52,491",0,0
+2013,        Business and financial operations occupations,"6,943,714",44.90%,55.10%,"54,454","64,574","49,071",0,0
+2013,"    Computer, engineering, and science occupations:","7,782,601",74.20%,25.80%,"70,129","73,511","58,110",0,0
+2013,        Computer and mathematical occupations,"3,875,030",73.70%,26.30%,"71,730","75,493","62,745",0,0
+2013,        Architecture and engineering occupations,"2,658,394",84.80%,15.20%,"72,208","75,551","57,996",0,0
+2013,"        Life, physical, and social science occupations","1,249,177",53.50%,46.50%,"53,844","60,372","50,236",0,0
+2013,"    Education, legal, community service, arts, and media occupations:","15,648,385",35.80%,64.20%,"40,384","47,513","36,490",0,0
+2013,        Community and social services occupations,"2,369,635",36.90%,63.10%,"37,573","39,841","37,003",0,0
+2013,        Legal occupations,"1,681,294",48.60%,51.40%,"72,063","101,879","53,664",0,0
+2013,"        Education, training, and library occupations","8,791,356",27.20%,72.80%,"38,195","46,785","35,295",0,0
+2013,"        Arts, design, entertainment, sports, and media occupations","2,806,100",54.30%,45.70%,"36,231","41,226","30,875",0,0
+2013,    Healthcare practitioner and technical occupations:,"8,121,581",25.40%,74.60%,"52,425","72,979","50,275",0,0
+2013,        Health diagnosing and treating practitioners and other technical occupations,"5,626,924",26.90%,73.10%,"62,650","100,320","58,749",0,0
+2013,        Health technologists and technicians,"2,494,657",22.00%,78.00%,"35,646","40,620","34,240",0,0
+2013,Service occupations:,"26,654,335",43.60%,56.40%,"17,425","21,446","15,391",0,0
+2013,    Healthcare support occupations,"3,752,165",13.40%,86.60%,"21,942","25,193","21,661",0,0
+2013,    Protective service occupations:,"3,190,761",77.60%,22.40%,"40,702","43,238","31,071",0,0
+2013,"        Fire fighting and prevention, and other protective service workers including supervisors","1,796,111",75.70%,24.30%,"28,697","31,353","20,814",0,0
+2013,        Law enforcement workers including supervisors,"1,394,650",80.00%,20.00%,"53,867","56,758","44,899",0,0
+2013,    Food preparation and serving related occupations,"8,464,136",45.80%,54.20%,"12,858","15,228","11,768",0,0
+2013,    Building and grounds cleaning and maintenance occupations,"5,853,358",60.40%,39.60%,"18,050","21,528","14,096",0,0
+2013,    Personal care and service occupations,"5,393,915",22.80%,77.20%,"15,200","18,945","14,211",0,0
+2013,Sales and office occupations:,"35,109,334",37.60%,62.40%,"27,412","33,653","25,266",0,0
+2013,    Sales and related occupations,"15,688,353",50.00%,50.00%,"26,075","38,567","17,415",0,0
+2013,    Office and administrative support occupations,"19,420,981",27.60%,72.40%,"28,482","30,122","27,981",0,0
+2013,"Natural resources, construction, and maintenance occupations:","12,924,043",95.40%,4.60%,"33,084","34,392","20,966",0,0
+2013,"    Farming, fishing, and forestry occupations","1,041,894",78.80%,21.20%,"19,166","21,144","13,435",0,0
+2013,    Construction and extraction occupations,"7,235,513",97.30%,2.70%,"31,857","31,966","25,081",0,0
+2013,"    Installation, maintenance, and repair occupations","4,646,636",96.00%,4.00%,"40,410","40,551","33,451",0,0
+2013,"Production, transportation, and material moving occupations:","17,687,391",77.90%,22.10%,"29,425","31,660","21,307",0,0
+2013,    Production occupations,"8,712,986",71.70%,28.30%,"30,936","35,364","22,245",0,0
+2013,    Transportation occupations,"5,229,882",86.70%,13.30%,"31,897","34,648","21,147",0,0
+2013,    Material moving occupations,"3,744,523",79.80%,20.20%,"21,626","22,837","17,329",0,0
