@@ -6,9 +6,9 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 from sqlalchemy import inspect
 from flask import Flask, request, jsonify, render_template
-import psycopg2
-from flask_sqlalchemy import SQLAlchemy
-from flask_migrate import Migrate
+# import psycopg2
+# from flask_sqlalchemy import SQLAlchemy
+# from flask_migrate import Migrate
 
 
 # ###############################################
