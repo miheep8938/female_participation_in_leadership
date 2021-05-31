@@ -7,22 +7,22 @@ from sqlalchemy import create_engine
 from sqlalchemy import inspect
 from flask import Flask, request, jsonify, render_template
 import psycopg2
-
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
 
 
 # ###############################################
 # #Database setup
 # ###############################################
 
+# database_path = "../Resources/fr.sqlite"
+# engine = create_engine(f"sqlite:///{database_path}")
 
+# # Declare a Base using automap_base()
+# Base = automap_base()
 
-engine = create_engine("sqlite:///Resources/female_representation_db.sqlite")
-
-# Declare a Base using automap_base()
-Base = automap_base()
-
-# Reflect the tables
-Base.prepare(engine, reflect=True)
+# # Reflect the tables
+# Base.prepare(engine, reflect=True)
 
 # save reference to each table
 # gender_parity = Base.classes.gender_parity
@@ -35,6 +35,14 @@ Base.prepare(engine, reflect=True)
 ###############################################
 app = Flask(__name__)
 print("\nInitiating flask server...")
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:postgres@localhost:5432/female_representation_db"
+db = SQLAlchemy(app)
+
+
+# db-to-sqlite "postgresql://postgres:postgres@localhost:5432/female_representation_db" fr.db \
+#     --all
+
+
 
 ###############################################
 # Flask Routes
@@ -63,6 +71,11 @@ def casestudy():
     
 
 ###What do we want for DATA page??###
+
+@app.route("/data")
+def data():
+
+    return {"hello":"world"}
 
 
 if __name__ == "__main__":
