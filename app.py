@@ -3,7 +3,8 @@ import pandas as pd
 import datetime as dt
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
+from sqlalchemy import create_engine
+from sqlalchemy import inspect
 from flask import Flask, request, jsonify, render_template
 import psycopg2
 
@@ -15,7 +16,7 @@ import psycopg2
 
 
 
-engine = create_engine("sqlite:///Resources/SQLDB.sqlite")
+engine = create_engine("sqlite:///Resources/female_representation_db.sqlite")
 
 # Declare a Base using automap_base()
 Base = automap_base()
@@ -24,10 +25,10 @@ Base = automap_base()
 Base.prepare(engine, reflect=True)
 
 # save reference to each table
-gender_parity = Base.classes.gender_parity
-national_data = Base.classes.national_data
-occupation = Base.classes.sorted_occupation
-states_data = Base.classes.states_data
+# gender_parity = Base.classes.gender_parity
+# national_data = Base.classes.national_data
+# occupation = Base.classes.sorted_occupation
+# states_data = Base.classes.states_data
 
 ###############################################
 #Flask setup
@@ -43,25 +44,25 @@ def index():
 
     return render_template("index.html")
 
-@app.route("/apitest")
-def testing():
-    # Create our session from Python to the DB
-    session = Session(engine) 
+@app.route("/national")
+def national():
+    return render_template("national.html")
 
-# #     """Convert the query results to a dictionary using date as the key and prcp as the value"""
-# #     """Return the JSON representation of your dictionary."""
+@app.route("/state")
+def state():
 
-# #     recent_year = dt.date(2017, 8 ,23)
-# #     # Calculate the date one year from the last date in data set.
-# #     previous_year = recent_year - dt.timedelta(days=365)
-    test_query = session.query(national_data).all()
-    state = test_query
-    session.close()
+    return render_template("state.html")
 
-    return jsonify(state)
+
+
+@app.route("/casestudy")
+def casestudy():
+
+    return render_template("casestudy.html")
+   
     
 
-
+###What do we want for DATA page??###
 
 
 if __name__ == "__main__":
