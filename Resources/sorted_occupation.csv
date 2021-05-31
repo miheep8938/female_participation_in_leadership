@@ -1,4 +1,4 @@
-fe,all_workers,all_salary,male_workers,male_salary,female_workers,female_salary,female_to_male_salary_ratio,female_to_male_workers_ratio,male_worker_percent,female_worker_percent,representation_gap,male_probability,Category
+occupation,all_workers,all_salary,male_workers,male_salary,female_workers,female_salary,female_to_male_salary_ratio,female_to_male_workers_ratio,male_worker_percent,female_worker_percent,representation_gap,male_probability,Category
 CONSTRUCTION,5722,749,5586,751,137,704,0.937416778,0.0245256,0.976232087,0.023942677,5449,1,SL
 MAINTENANCE,4301,839,4159,842,143,761,0.903800475,0.034383265,0.966984422,0.033248082,4016,1,SL
 Driver sales workers and truck drivers,2687,747,2582,751,105,632,0.841544607,0.04066615,0.960922962,0.039077038,2477,1,SL
