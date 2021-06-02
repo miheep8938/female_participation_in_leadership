@@ -1,0 +1,7079 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 0,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 33.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 1,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 33.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 2,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 32.53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 3,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 4,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 31.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 5,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 32.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 6,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 32.98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 7,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 31.74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 8,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 30.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 9,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 28.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 10,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 28.68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 11,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 27.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 12,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 26.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 13,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 26.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 14,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 25.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 15,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 25.73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 16,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 24.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 17,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 24.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 18,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 23.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6922,
+                    35.6897
+                ]
+            },
+            "properties": {
+                "FIELD1": 19,
+                "Country": "Japan",
+                "Location": "JPN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 23.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 20,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 41.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 21,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 40.42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 22,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 41.03
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 23,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 40.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 24,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 39.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 25,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 39.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 26,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 39.77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 27,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 38.16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 28,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 39.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 29,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 38.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 30,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 39.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 31,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 36.56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 32,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 36.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 33,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 36.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 34,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 36.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 35,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 37.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 36,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 36.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 37,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 34.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 38,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 34.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0,
+                    37.5833
+                ]
+            },
+            "properties": {
+                "FIELD1": 39,
+                "Country": "Korea, South",
+                "Location": "KOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 32.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 40,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 16.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 41,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 18.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 42,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 12.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 43,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 22.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 44,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 16.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 45,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 11.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 46,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 47,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 13.56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 48,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 15.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 49,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 18.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 50,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 16.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 51,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 16.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 52,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 11.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 53,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1333,
+                    19.4333
+                ]
+            },
+            "properties": {
+                "FIELD1": 54,
+                "Country": "Mexico",
+                "Location": "MEX",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 18.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 55,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 23.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 56,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 23.58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 57,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 22.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 58,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 20.58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 59,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 19.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 60,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 18.98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 61,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 19.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 62,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 19.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 63,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 20.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 64,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 19.78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 65,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 18.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 66,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 17.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 67,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 19.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 68,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 17.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 69,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 17.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 70,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 18.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 71,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 18.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 72,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 18.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 73,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 18.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249,
+                    40.6943
+                ]
+            },
+            "properties": {
+                "FIELD1": 74,
+                "Country": "United States",
+                "Location": "USA",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 18.47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 75,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 26.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 76,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 25.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 77,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 24.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 78,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 24.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 79,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 23.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 80,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 22.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 81,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 21.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 82,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 21.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 83,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 21.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 84,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 20.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 85,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 19.23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 86,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 18.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 87,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 17.78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 88,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 17.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 89,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 17.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 90,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 17.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 91,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 16.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 92,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 16.53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 93,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 16.31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "FIELD1": 94,
+                "Country": "United Kingdom",
+                "Location": "GBR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 16.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 95,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 1.34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 96,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 1.74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 97,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 3.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 98,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 6.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 99,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 3.53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 100,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 8.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 101,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 7.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 102,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 9.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 103,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 11.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 104,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 7.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 105,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 7.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 106,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 5.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0705,
+                    4.6126
+                ]
+            },
+            "properties": {
+                "FIELD1": 107,
+                "Country": "Colombia",
+                "Location": "COL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 108,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 23.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 109,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 24.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 110,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 24.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 111,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 22.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 112,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 22.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 113,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 21.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 114,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 21.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 115,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 20.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 116,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 20.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 117,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 20.13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 118,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 18.98
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 119,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 19.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 120,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 19.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 121,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 19.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 122,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 19.23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 123,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 18.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 124,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 18.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 125,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 18.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 126,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 18.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3733,
+                    43.7417
+                ]
+            },
+            "properties": {
+                "FIELD1": 127,
+                "Country": "Canada",
+                "Location": "CAN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 17.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 128,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 17.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 129,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 14.34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 130,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 131,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 13.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 132,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 14.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 133,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 15.78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 134,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 16.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 135,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 15.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 136,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 11.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 137,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 16.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 138,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 14.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 139,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 15.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 140,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 13.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 141,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 142,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 15.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 143,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 144,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 11.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 145,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 11.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2094,
+                    -33.865
+                ]
+            },
+            "properties": {
+                "FIELD1": 146,
+                "Country": "Australia",
+                "Location": "AUS",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 11.71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 147,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 19.58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 148,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 19.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 149,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 19.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 150,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 19.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 151,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 21.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 152,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 16.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 153,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 18.13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 154,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 16.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 155,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 16.74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 156,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 16.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 157,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 16.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 158,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 16.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 159,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 15.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 160,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 14.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 161,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 17.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 162,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 15.82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 163,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 15.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 164,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 16.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3833,
+                    52.5167
+                ]
+            },
+            "properties": {
+                "FIELD1": 165,
+                "Country": "Germany",
+                "Location": "DEU",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 15.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 166,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 23.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 167,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 22.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 168,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 24.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 169,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 21.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 170,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 22.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 171,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 22.03
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 172,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 21.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 173,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 21.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 174,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 20.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 175,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 19.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 176,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 19.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 177,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 18.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 178,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 18.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 179,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 18.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 180,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 17.73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 181,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 17.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 182,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 15.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 183,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 15.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3731,
+                    48.2083
+                ]
+            },
+            "properties": {
+                "FIELD1": 184,
+                "Country": "Austria",
+                "Location": "AUT",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 14.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 185,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 14.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 186,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 11.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 187,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 10.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 188,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 11.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 189,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 12.99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 190,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 7.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 191,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 10.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 192,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 11.07
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 193,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 9.42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333,
+                    52.2167
+                ]
+            },
+            "properties": {
+                "FIELD1": 194,
+                "Country": "Poland",
+                "Location": "POL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 11.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 195,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 14.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 196,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 13.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 197,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 9.13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 198,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 1.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 199,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 3.03
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 200,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 4.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 201,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 0.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 202,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 3.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 203,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 2.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 204,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 3.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 205,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 6.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 206,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 6.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 207,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 11.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 208,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 8.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 209,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 3.77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 210,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 9.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 211,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 9.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 212,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 5.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0408,
+                    47.4983
+                ]
+            },
+            "properties": {
+                "FIELD1": 213,
+                "Country": "Hungary",
+                "Location": "HUN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 5.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 214,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 7.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 215,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 8.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 216,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 7.31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 217,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 7.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 218,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 8.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 219,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 9.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 220,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 9.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 221,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 7.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 222,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 8.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 223,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 8.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 224,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 7.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 225,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 4.53
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 226,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 5.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 227,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 6.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 228,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 6.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 229,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 7.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 230,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 7.77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 231,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 7.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 232,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 7.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7833,
+                    -36.85
+                ]
+            },
+            "properties": {
+                "FIELD1": 233,
+                "Country": "New Zealand",
+                "Location": "NZL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 6.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 234,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 16.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 235,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 15.95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 236,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 15.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 237,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 16.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 238,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 15.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 239,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 15.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 240,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 16.93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 241,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 17.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 242,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 15.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 243,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 15.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 244,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 16.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 245,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 15.26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 246,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 15.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 247,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 16.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 248,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 16.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 249,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 16.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 250,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 15.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 251,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 15.13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167,
+                    50.0833
+                ]
+            },
+            "properties": {
+                "FIELD1": 252,
+                "Country": "Czechia",
+                "Location": "CZE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 14.71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 253,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 10.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 254,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 9.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 255,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 10.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 256,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 10.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 257,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 10.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 258,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 9.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 259,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 10.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 260,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 10.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 261,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 8.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 262,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 7.95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 263,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 264,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 6.77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 265,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 6.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 266,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 5.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 267,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 5.73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 268,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 5.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5635,
+                    55.6786
+                ]
+            },
+            "properties": {
+                "FIELD1": 269,
+                "Country": "Denmark",
+                "Location": "DNK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 4.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 270,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 12.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 271,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 12.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 272,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 11.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 273,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 11.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 274,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 10.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 275,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 11.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 276,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 11.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 277,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 11.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 278,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 10.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 279,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 9.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 280,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 9.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 281,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 9.16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 282,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 9.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 283,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 9.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 284,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 9.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 285,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 8.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 286,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 8.17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 287,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 7.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 288,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 7.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3294
+                ]
+            },
+            "properties": {
+                "FIELD1": 289,
+                "Country": "Sweden",
+                "Location": "SWE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 7.58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 290,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 27.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 291,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 24.21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 292,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 25.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 293,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 25.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 294,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 21.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 295,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 21.96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 296,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 20.41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 297,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 22.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 298,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 21.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 299,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 20.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 300,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 19.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 301,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 302,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 20.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 303,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 20.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 304,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 20.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 305,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 21.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 306,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 21.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2167,
+                    31.7833
+                ]
+            },
+            "properties": {
+                "FIELD1": 307,
+                "Country": "Israel",
+                "Location": "ISR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 22.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 308,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 11.15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 309,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 11.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 310,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 11.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 311,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 11.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 312,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 10.68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 313,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 10.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 314,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 10.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 315,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 10.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 316,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 9.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 317,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 318,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 8.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 319,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 8.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 320,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 6.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 321,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 7.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 322,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 6.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 323,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 7.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 324,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 6.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 325,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 6.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 326,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 5.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7528,
+                    59.9111
+                ]
+            },
+            "properties": {
+                "FIELD1": 327,
+                "Country": "Norway",
+                "Location": "NOR",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 4.99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 328,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 20.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 329,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 21.24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 330,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 20.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 331,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 20.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 332,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 20.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 333,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 18.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 334,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 19.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 335,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 21.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 336,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 21.23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 337,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 19.68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 338,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 18.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 339,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 18.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 340,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 18.73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 341,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 20.18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 342,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 19.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 343,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 18.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 344,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 16.47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 345,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 17.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9342,
+                    60.1756
+                ]
+            },
+            "properties": {
+                "FIELD1": 346,
+                "Country": "Finland",
+                "Location": "FIN",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 18.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 347,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 20.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 348,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 20.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 349,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 20.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 350,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 20.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 351,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 17.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 352,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 17.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 353,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 16.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 354,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 16.43
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 355,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 14.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 356,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 15.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 357,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 15.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 358,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 14.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 359,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 14.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 360,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 13.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 361,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 13.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 362,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 15.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 363,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 15.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1128,
+                    48.1447
+                ]
+            },
+            "properties": {
+                "FIELD1": 364,
+                "Country": "Slovakia",
+                "Location": "SVK",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2019,
+                "WageGap": 13.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 365,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 13.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 366,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2001,
+                "WageGap": 13.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 367,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 11.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 368,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2003,
+                "WageGap": 15.21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 369,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 11.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 370,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2005,
+                "WageGap": 11.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 371,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 10.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 372,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2007,
+                "WageGap": 9.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 373,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 8.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 374,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2009,
+                "WageGap": 7.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 375,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 7.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 376,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2011,
+                "WageGap": 5.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 377,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 6.41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 378,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2013,
+                "WageGap": 5.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 379,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 3.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 380,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2015,
+                "WageGap": 4.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 381,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 3.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3517,
+                    50.8467
+                ]
+            },
+            "properties": {
+                "FIELD1": 382,
+                "Country": "Belgium",
+                "Location": "BEL",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2017,
+                "WageGap": 4.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 383,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2000,
+                "WageGap": 23.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 384,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2002,
+                "WageGap": 22.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 385,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2004,
+                "WageGap": 22.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 386,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2006,
+                "WageGap": 21.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 387,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2008,
+                "WageGap": 21.31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 388,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2010,
+                "WageGap": 20.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 389,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2012,
+                "WageGap": 19.34
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 390,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2014,
+                "WageGap": 16.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 391,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2016,
+                "WageGap": 14.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.948
+                ]
+            },
+            "properties": {
+                "FIELD1": 392,
+                "Country": "Switzerland",
+                "Location": "CHE",
+                "SUBJECT": "EMPLOYEE",
+                "Time": 2018,
+                "WageGap": 15.1
+            }
+        }
+    ]
+}
