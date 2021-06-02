@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 
 <body>
@@ -14,50 +15,80 @@
         <div class="form-group">
             <h1>Gender Prediction</h1>
             <div class="element">
-                <label for="inputPassword5">fixed acidity</label>
-                <input type="number"  min="4.6" max="16"step="0.00001"class="form-control" value=10.4>
+                <label for="inputPassword5">What is your gender?</label>
+                <select class="dropdown-item" id="gender" name="gender">
+                    <option value="1">Male</option>
+                    <option value="0">Female</option>
+                </select>
+                <br>
             </div>
             <div class="element">
-                <label for="inputPassword5">volatile acidity</label>
-                <input type="number"  min="0.12" max="1.6"step="0.00001"class="form-control" value=0.55>
+                <label for="inputPassword5">What is your age?</label>
+                <input type="number" min="17" max="90" step="1.0" class="form-control" value=25>
             </div>
             <div class="element">
-                <label for="inputPassword5">citric acid</label>
-                <input type="number"  min="0" max="1"step="0.0000001"class="form-control" value=0.23>
+                <label for="inputPassword5">How would you define your work sector? </label>
+                <select class="dropdown-item" id="worksector" name="worksector">
+                    <option value="0">Private</option>
+                    <option value="1">Public</option>
+                    <option value="2">Self-Employed</option>
+                    <option value="3">Unemployed</option>
+                </select>
             </div>
             <div class="element">
-                <label for="inputPassword5">residual sugar</label>
-                <input type="number"  min="0.9" max="15.5"step="0.00001"class="form-control" value=2.7>
+                <label for="inputPassword5">What is the highest degree or level of school you have completed?</label>
+                <select class="dropdown-item" id="dependents" name="dependents">
+                    <option value="0">High School Degree</option>
+                    <option value="1">Associate Degree</option>
+                    <option value="2">Bachelors</option>
+                    <option value="3">Graduate</option>
+                    <option value="4">Not Graduated</option>
+                    <option value="5">Preschool</option>
+                </select>
             </div>
             <div class="element">
-                <label for="inputPassword5">chlorides</label>
-                <input type="number"  min="0.012" max="0.61"step="0.00001"class="form-control" value=0.091>
+                <label for="inputPassword5">What is your marital status?</label>
+                <select class="dropdown-item" id="worksector" name="worksector">
+                    <option value="0">Single</option>
+                    <option value="1">Married</option>
+                    <option value="2">Seperated</option>
+                    <option value="3">Divorced</option>
+                    <option value="4">Widowed</option>
+                </select>
             </div>
             <div class="element">
-                <label for="inputPassword5">free sulfur dioxide</label>
-                <input type="number"  min="1" max="72"step="1"class="form-control" value=18>
+                <label for="inputPassword5">What is your occupation?</label>
+                <select class="dropdown-item" id="worksector" name="worksector">
+                    <option value="0">Manager</option>
+                    <option value="1">Service</option>
+                    <option value="2">Sales</option>
+                    <option value="3">Technician</option>
+                    <option value="4">Agricultural</option>
+                    <option value="5">Clerical</option>
+                </select>
             </div>
             <div class="element">
-                <label for="inputPassword5">total sulfur dioxide</label>
-                <input type="number"  min="6" max="278"step="1"class="form-control" value=48>
+                <label for="inputPassword5">What is your ethnicity? </label>
+                <select class="dropdown-item" id="worksector" name="worksector">
+                    <option value="0">White</option>
+                    <option value="1">Black</option>
+                    <option value="2">Asian</option>
+                    <option value="3">Aboriginal</option>
+                </select>
             </div>
             <div class="element">
-                <label for="inputPassword5">density</label>
-                <input type="number"  min="0.98" max="10"step="0.00001"class="form-control" value=0.9994>
+                <label for="inputPassword5">How many hours do you work per week?</label>
+                <input type="number" min="1" max="99" step="1.0" class="form-control" value=40>
             </div>
             <div class="element">
-                <label for="inputPassword5">pH</label>
-                <input type="number"  min="2.74" max="4.01"step="0.000001"class="form-control" value=3.22>
+                <label for="inputPassword5">Which continent do you currently live?</label>
+                <select class="dropdown-item" id="worksector" name="worksector">
+                    <option value="0">North America</option>
+                    <option value="1">Sourth America</option>
+                    <option value="2">Asia</option>
+                    <option value="3">Europe</option>
+                </select>
             </div>
-            <div class="element">
-                <label for="inputPassword5">sulphates</label>
-                <input type="number"  min="0.33" max="2"step="0.000001"class="form-control" value=0.64>
-            </div>
-            <div class="element">
-                <label for="inputPassword5">alcohol</label>
-                <input type="number"  min="8.4" max="14.9"step="0.000001"class="form-control" value=10.3>
-            </div>
-
 
         </div>
         <input type="submit">
