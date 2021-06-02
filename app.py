@@ -108,6 +108,11 @@ def data():
 
     return {"hello":"world"}
 
+@app.route("/predict")
+def predict():
+
+    return {"Insert":"ML"}
+
 
 if __name__ == "__main__":
     app.run(debug=True)
