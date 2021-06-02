@@ -7,32 +7,8 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 from sqlalchemy import inspect
 from flask import Flask, request, jsonify, render_template, redirect
-
 import pickle
 
-
-# import psycopg2
-# from flask_migrate import Migrate
-
-
-# ###############################################
-# #Database setup
-# ###############################################
-
-# database_path = "../Resources/fr.sqlite"
-# engine = create_engine(f"sqlite:///{database_path}")
-
-# # Declare a Base using automap_base()
-# Base = automap_base()
-
-# # Reflect the tables
-# Base.prepare(engine, reflect=True)
-
-# save reference to each table
-# gender_parity = Base.classes.gender_parity
-# national_data = Base.classes.national_data
-# occupation = Base.classes.sorted_occupation
-# states_data = Base.classes.states_data
 
 ###############################################
 #Flask setup
@@ -43,8 +19,6 @@ app = Flask(__name__)
 print("\nInitiating flask server...")
 
 from flask_sqlalchemy import SQLAlchemy
-# engine = create_engine("sqlite:///Resources/SQLDB.sqlite")
-
 
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') 
 
@@ -87,6 +61,7 @@ def index():
 
 @app.route("/national")
 def national():
+
     return render_template("national.html")
 
 @app.route("/state")
@@ -94,10 +69,27 @@ def state():
 
     return render_template("state.html")
 
+# @app.route("/prediction")
+# def prediction():
 
+#     return render_template("prediction.html")
 
-@app.route("/prediction")
+@app.route("/prediction", methods=["GET", "POST"])
 def prediction():
+
+    # If the user fills out our form, assign variables to their inputs and run the machine learning model function.
+    if request.method == "POST":
+        occ = request.form["occupation"]
+        gndr = request.form["gender"]
+        yr = request.form["year"]
+
+        # also need to do these things, but not sure where:
+        # call predictml function/route with occ, gndr, and year as inputs
+        # save the function's output as something we can then cause to display in
+        # prediction.html "answer" element (currently line 41). Do we need a .js script for that?
+
+        # return redirect("/", code=302) # don't think we need this, it was from pet pals example
+        # return predictml(occ, gndr, yr) # this may be what we'll need but predictml() doesn't do anything and idk what format the input needs to be in.
 
     return render_template("prediction.html")
 
@@ -109,6 +101,9 @@ def data():
 
 @app.route("/predictml")
 def predictml():
+    # 1. load model
+    # 2. y = model.predict  # pass user inputs from prediction.html as input to predict function here
+    # 3. return y
 
     return {"Insert":"ML function"}
 
