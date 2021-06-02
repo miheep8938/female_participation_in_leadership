@@ -37,12 +37,14 @@ import pickle
 ###############################################
 #Flask setup
 ###############################################
+
 app = Flask(__name__)
 api=Api(app)
 print("\nInitiating flask server...")
 
 from flask_sqlalchemy import SQLAlchemy
 # engine = create_engine("sqlite:///Resources/SQLDB.sqlite")
+
 
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') 
 
@@ -85,7 +87,7 @@ def index():
 
 @app.route("/national")
 def national():
-    return render_template("prediction.html")
+    return render_template("national.html")
 
 @app.route("/state")
 def state():
@@ -94,24 +96,21 @@ def state():
 
 
 
-@app.route("/casestudy")
-def casestudy():
+@app.route("/prediction")
+def prediction():
 
-    return render_template("casestudy.html")
-   
-    
+    return render_template("prediction.html")
 
-###What do we want for DATA page??###
 
 @app.route("/data")
 def data():
 
-    return {"hello":"world"}
+    return render_template("data.html")
 
-@app.route("/predict")
-def predict():
+@app.route("/predictml")
+def predictml():
 
-    return {"Insert":"ML"}
+    return {"Insert":"ML function"}
 
 
 if __name__ == "__main__":
