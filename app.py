@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 from sqlalchemy import inspect
 from flask import Flask, request, jsonify, render_template, redirect
-from flask_restful import Resource, Api, reqparse
+
 import pickle
 
 
@@ -39,7 +39,7 @@ import pickle
 ###############################################
 
 app = Flask(__name__)
-api=Api(app)
+# api=Api(app)
 print("\nInitiating flask server...")
 
 from flask_sqlalchemy import SQLAlchemy
@@ -58,24 +58,24 @@ db = SQLAlchemy(app)
 # db-to-sqlite "postgresql://postgres:postgres@localhost:5432/female_representation_db" fr.db \
 #     --all
 
-data_arg=reqparse.RequestParser()
-data_arg.add_argument("id" , type=str)
-# load ML model
-model=pickle.load(open('model.pkl', 'rb'))
-class predict(Resource):
-    def __init__(self):
-        self.model1 = model
-    def post(self):
-        # parse data from post request
-        args = data_arg.parse_args()
-        # convert string into int list
-        temp=args.id.strip('][').split(',')
-        temp = [float(i) for i in temp]
-        # predict output
-        out=self.model1.predict([temp])
-        # Return prediction
-        return jsonify({"message":  int(out)})
-api.add_resource(predict, '/')
+# data_arg=reqparse.RequestParser()
+# data_arg.add_argument("id" , type=str)
+# # load ML model
+# model=pickle.load(open('model.pkl', 'rb'))
+# class predict(Resource):
+#     def __init__(self):
+#         self.model1 = model
+#     def post(self):
+#         # parse data from post request
+#         args = data_arg.parse_args()
+#         # convert string into int list
+#         temp=args.id.strip('][').split(',')
+#         temp = [float(i) for i in temp]
+#         # predict output
+#         out=self.model1.predict([temp])
+#         # Return prediction
+#         return jsonify({"message":  int(out)})
+# api.add_resource(predict, '/')
 
 ###############################################
 # Flask Routes
