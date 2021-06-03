@@ -17,7 +17,7 @@ from joblib import load
 ###############################################
 
 app = Flask(__name__)
-# api=Api(app)
+
 print("\nInitiating flask server...")
 pipeline = load('model3.joblib')
 
@@ -72,26 +72,7 @@ def prediction():
             user_age = int(ReplaceChars(int(request.form['user_age'])))
         except ValueError:
             return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on age field.")
-        # try:
-        #     user_employment = int(ReplaceChars(str(request.form['user_employment'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on employment field.")
-        # try:
-        #     user_education = int(ReplaceChars(str(request.form['user_education'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on education field.")
-        # try:
-        #     user_marital = int(ReplaceChars(str(request.form['user_marital'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on marital status field.")
-        # try:
-        #     user_occupation = int(ReplaceChars(str(request.form['user_occupation'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on occupation field.")
-        # try:
-        #     user_ethnicity = int(ReplaceChars(str(request.form['user_ethnicity'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on ethnicity field.")
+        
         try:
             user_workhour = int(ReplaceChars(
                 str(request.form['user_workhour'])))
