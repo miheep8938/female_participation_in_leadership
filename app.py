@@ -23,7 +23,7 @@ pipeline = load('model3.joblib')
 
 # form validation function for text fields
 def ReplaceChars(text):
-    if text is "" or text is None:
+    if text == "" or text == None:
         text = 0  # if text box is empty default the value to 0
     else:
         chars = ",$"  # removing common monetary and numeric formatting
@@ -69,17 +69,17 @@ def prediction():
     # take user input from Form as a Post request and typecast it to the proper data structure
     if request.method == 'POST':
         try:
-            user_age = int(ReplaceChars(int(request.form['user_age'])))
+            user_age = int(request.form['user_age'])
         except ValueError:
             return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on age field.")
         
         try:
-            user_workhour = int(ReplaceChars(
-                str(request.form['user_workhour'])))
+            user_workhour = int(request.form['user_workhour'])
         except ValueError:
             return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on workhour field.")
-
+    
         user_gender = int(request.form['user_gender'])
+
         user_employment = int(request.form['user_employment'])
         if user_employment == 0:
             employment_private = 1
@@ -265,6 +265,10 @@ def prediction():
             employment_SA = 0
             employment_Asia = 0
             employment_EU = 1
+        
+        # added 50K option
+        user_income = int(request.form['user_income'])
+
 
 
 
@@ -311,10 +315,12 @@ def prediction():
             'location_ North_America': [employment_NA],
             'location_ South_America': [employment_SA],
             'location_ Asia': [employment_Asia],
-            'location_ Europe': [employment_EU]
+            'location_ Europe': [employment_EU],
+            'above/below50K_ >50K': [user_income]
         })
 
         pred_cols = list(df.columns.values)
+    
         prediction = pipeline.predict(df[pred_cols])[0]
         if prediction == 0:
             decision = 'Denied'
@@ -323,7 +329,7 @@ def prediction():
 
         return render_template('prediction.html', title="Salary Prediction", decision=decision)
 
-    decision = "Fill out the form on the left."
+    decision = "Fill out the form above."
     return render_template("prediction.html", title="Salary Prediction", decision=decision)
 
 
@@ -331,6 +337,11 @@ def prediction():
 def data():
 
     return render_template("data.html")
+
+@app.route("/mlmodels")
+def mlmodels():
+
+    return render_template("mlmodels.html")
 
 
 @app.route("/predictml")
