@@ -8,33 +8,9 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 from sqlalchemy import inspect
 from flask import Flask, request, jsonify, render_template, redirect
-
 import pickle
 from joblib import load
 
-
-# import psycopg2
-# from flask_migrate import Migrate
-
-
-# ###############################################
-# #Database setup
-# ###############################################
-
-# database_path = "../Resources/fr.sqlite"
-# engine = create_engine(f"sqlite:///{database_path}")
-
-# # Declare a Base using automap_base()
-# Base = automap_base()
-
-# # Reflect the tables
-# Base.prepare(engine, reflect=True)
-
-# save reference to each table
-# gender_parity = Base.classes.gender_parity
-# national_data = Base.classes.national_data
-# occupation = Base.classes.sorted_occupation
-# states_data = Base.classes.states_data
 
 ###############################################
 # Flask setup
@@ -46,8 +22,6 @@ print("\nInitiating flask server...")
 pipeline = load('model3.joblib')
 
 # form validation function for text fields
-
-
 def ReplaceChars(text):
     if text is "" or text is None:
         text = 0  # if text box is empty default the value to 0
@@ -61,39 +35,12 @@ def ReplaceChars(text):
     return text
 
 
-# engine = create_engine("sqlite:///Resources/SQLDB.sqlite")
-
-
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
 
-
-# app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:postgres@localhost:5432/female_representation_db"
 # Remove tracking modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
-
-# db-to-sqlite "postgresql://postgres:postgres@localhost:5432/female_representation_db" fr.db \
-#     --all
-
-# data_arg=reqparse.RequestParser()
-# data_arg.add_argument("id" , type=str)
-# # load ML model
-# model=pickle.load(open('model.pkl', 'rb'))
-# class predict(Resource):
-#     def __init__(self):
-#         self.model1 = model
-#     def post(self):
-#         # parse data from post request
-#         args = data_arg.parse_args()
-#         # convert string into int list
-#         temp=args.id.strip('][').split(',')
-#         temp = [float(i) for i in temp]
-#         # predict output
-#         out=self.model1.predict([temp])
-#         # Return prediction
-#         return jsonify({"message":  int(out)})
-# api.add_resource(predict, '/')
 
 ###############################################
 # Flask Routes
@@ -121,10 +68,6 @@ def prediction():
 
     # take user input from Form as a Post request and typecast it to the proper data structure
     if request.method == 'POST':
-        # try:
-        #     user_gender = int(ReplaceChars(str(request.form['user_gender'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on Gender field.")
         try:
             user_age = int(ReplaceChars(int(request.form['user_age'])))
         except ValueError:
@@ -154,12 +97,7 @@ def prediction():
                 str(request.form['user_workhour'])))
         except ValueError:
             return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on workhour field.")
-        # try:
-        #     user_continent = int(ReplaceChars(str(request.form['user_continent'])))
-        # except ValueError:
-        #     return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on continent field.")
 
-##################################################
         user_gender = int(request.form['user_gender'])
         user_employment = int(request.form['user_employment'])
         if user_employment == 0:
@@ -347,48 +285,7 @@ def prediction():
             employment_Asia = 0
             employment_EU = 1
 
-# user_employment = int(ReplaceChars(str(request.form['user_employment'])))
-        # loan_amount_term = int(request.form['loan_amount_term'])
-        # credit_history = int(request.form['credit_history'])
-        # gender = int(request.form['gender'])
-        # married = int(request.form['married'])
 
-        # dependents = int(request.form['dependents'])
-        # if dependents == 0:
-        #     dependents_zero = 1
-        #     dependents_one = 0
-        #     dependents_two = 0
-        #     dependents_three = 0
-        # elif dependents == 1:
-        #     dependents_zero = 0
-        #     dependents_one = 1
-        #     dependents_two = 0
-        #     dependents_three = 0
-        # elif dependents == 2:
-        #     dependents_zero = 0
-        #     dependents_one = 0
-        #     dependents_two = 1
-        #     dependents_three = 0
-        # else:
-        #     dependents_zero = 0
-        #     dependents_one = 0
-        #     dependents_two = 0
-        #     dependents_three = 1
-        # # education = int(request.form['education'])
-        # # self_employed = int(request.form['self_employed'])
-        # property_area = int(request.form['property_area'])
-        # if property_area == 0:
-        #     rural = 1
-        #     semiurban = 0
-        #     urban = 0
-        # elif property_area == 1:
-        #     rural = 0
-        #     semiurban = 1
-        #     urban = 0
-        # else:
-        #     rural = 0
-        #     semiurban = 0
-        #     urban = 1
 
         # put the variables into a pandas dataframe
         df = pd.DataFrame({
