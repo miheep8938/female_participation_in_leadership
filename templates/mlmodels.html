@@ -1,34 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Female Participation in Leadership</title>
-        <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
-        <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
-        <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
-    </head>
-    <body>
-        <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container px-5">
-                <a class="navbar-brand" href="/">Female Representation</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/national">World</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/state">United States</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/prediction">Predictions</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/mlmodels">Machine Learning</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/data">Sources</a></li>
-                    </ul>
-                </div>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Female Participation in Leadership</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container px-5">
+            <a class="navbar-brand" href="/">Female Representation</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="/">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/national">World</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/state">United States</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/prediction">Predictions</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/mlmodels">Machine Learning</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/data">Sources</a></li>
+                </ul>
             </div>
-        </nav>
-        <!-- Page Content-->
+        </div>
+    </nav>
+    <!-- Page Content-->
+
+    <!-- Gallery -->
+    <div class="row">
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+            <img src="static/images/gender_gap2019.png"
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+
+            <img src="static/images/tree.png"
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+        </div>
+
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <img src="static/images/gender_gap2022.png"
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+
+            <img src="static/images/image_sample.jpg"
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+        </div>
+
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <img src="static/images/KNNModel.png"
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+
+            <img src="static/images/RegressionMLModel.png"
+                class="w-100 shadow-1-strong rounded mb-4" alt="" />
+        </div>
+    </div>
+    <!-- Gallery -->
+
+</body>

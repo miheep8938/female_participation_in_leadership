@@ -32,6 +32,80 @@
             </div>
         </nav>
 
-        <h4> Embed Tableau </h4>
+        <html>
+
+    <head>               
+
+        <script type="text/javascript" src="http://public.tableausoftware.com/javascripts/api/tableau_v8.debug.js"></script>               
+
+    </head>
+
+    <body>
+
+        <div class='container'>                       
+
+            <div class='row'>                              
+
+
+
+  <div class='row'><h7 class='offset3 span7 pagination-centered'>GPI 1993-2020</h7></div>
+
+ 
+
+  <div id='viz'></div>
+
+                <script>
+
+                    var vizDiv=document.getElementById('viz');
+
+                    var vizURL= "https://public.tableau.com/views/GPI_16222116918460/GPI?:language=en-US&:display_count=n&:origin=viz_share_link";
+
+                    var options= {
+
+                        width:'1000px',
+
+                        height: '600px',
+
+                        hideToolbar: true,
+
+                        hideTabs: false, 
+
+                        onFirstInteractive: function(){
+
+                            document.getElementById('sheetName') .innerHTML=viz.getWorkbook().getActiveSheet().getName();
+
+                        }
+
+                    };
+
+                    viz= new tableauSoftware.Viz(vizDiv, vizURL, options);
+
+                                       
+
+                    viz.addEventListener('tabswitch',function(event){
+
+                        document.getElementById('sheetName') .innerHTML=event.getNewSheetName();
+
+                    });
+
+                           
+
+                    function switchView(sheetName){
+
+                        workbook=viz.getWorkbook();
+
+                        workbook.activateSheetAsync(sheetName);
+
+                    }                          
+
+                </script>
+
+            </div>
+
+        </div>
+
+    </body>
+
+</html>
 
 </body>

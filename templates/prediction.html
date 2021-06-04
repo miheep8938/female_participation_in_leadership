@@ -14,139 +14,150 @@
         <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
     </head>
     <body>
-        <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container px-5">
-                <a class="navbar-brand" href="/">Female Representation</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/national">World</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/state">United States</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/prediction">Predictions</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/mlmodels">Machine Learning</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/data">Sources</a></li>
-                    </ul>
+       
+        <!DOCTYPE html>
+        <html lang="en">
+        
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+                integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        </head>
+        
+        <body>
+            <!-- Responsive navbar-->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container px-5">
+                    <a class="navbar-brand" href="/">Female Representation</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                        aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item"><a class="nav-link active" aria-current="page" href="/">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/national">World</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/state">United States</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/prediction">Predictions</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/mlmodels">Machine Learning</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/data">Sources</a></li>
+                        </ul>
+                    </div>
                 </div>
+            </nav>
+        
+            <form id="form_id" action='/prediction' method="POST">
+                <div class="form-group">
+                    <h1>Salary Prediction</h1>
+                    <!-- updated for=user_age, not sure about the rest -->
+                    <div class="element">
+                        <label for="user_age">What is your age?</label>
+                        <input type="number" min="17" max="90" step="1.0" class="form-control" value="25" name="user_age">
+                    </div>
+                    <div class="element">
+                        <label for="user_gender">What is your gender?</label>
+                        <select class="dropdown-item" id="user_gender" name="user_gender">
+                            <option value="1">Male</option>
+                            <option value="0">Female</option>
+                        </select>
+                        <br>
+                    </div>
+                    <div class="element">
+                        <label for="user_employment">How would you define your work sector? </label>
+                        <select class="dropdown-item" id="user_employment" name="user_employment">
+                            <option value="0">Private</option>
+                            <option value="1">Public</option>
+                            <option value="2">Self-Employed</option>
+                            <option value="3">Unemployed</option>
+                        </select>
+                    </div>
+                    <div class="element">
+                        <label for="user_education">What is the highest degree or level of school you have completed?</label>
+                        <select class="dropdown-item" id="user_education" name="user_education">
+                            <option value="0">High School Degree</option>
+                            <option value="1">Associate Degree</option>
+                            <option value="2">Bachelors</option>
+                            <option value="3">Graduate</option>
+                            <option value="4">Not Graduated</option>
+                            <option value="5">Preschool</option>
+                        </select>
+                    </div>
+                    <div class="element">
+                        <label for="user_marital">What is your marital status?</label>
+                        <select class="dropdown-item" id="user_marital" name="user_marital">
+                            <option value="0">Single</option>
+                            <option value="1">Married</option>
+                            <option value="2">Seperated</option>
+                            <option value="3">Divorced</option>
+                            <option value="4">Widowed</option>
+                        </select>
+                    </div>
+                    <div class="element">
+                        <label for="user_occupation">What is your occupation?</label>
+                        <select class="dropdown-item" id="user_occupation" name="user_occupation">
+                            <option value="0">Manager</option>
+                            <option value="1">Service</option>
+                            <option value="2">Sales</option>
+                            <option value="3">Technician</option>
+                            <option value="4">Agricultural</option>
+                            <option value="5">Clerical</option>
+                        </select>
+                    </div>
+                    <div class="element">
+                        <label for="user_ethnicity">What is your ethnicity? </label>
+                        <select class="dropdown-item" id="user_ethnicity" name="user_ethnicity">
+                            <option value="0">White</option>
+                            <option value="1">Black</option>
+                            <option value="2">Asian</option>
+                            <option value="3">Aboriginal</option>
+                        </select>
+                    </div>
+                    <div class="element">
+                        <label for="user_workhour">How many hours do you work per week?</label>
+                        <input type="number" min="1" max="99" step="1.0" class="form-control" value="40" name="user_workhour">
+                    </div>
+                    <div class="element">
+                        <label for="user_continent">Which continent do you currently live?</label>
+                        <select class="dropdown-item" id="user_continent" name="user_continent">
+                            <option value="0">North America</option>
+                            <option value="1">South America</option>
+                            <option value="2">Asia</option>
+                            <option value="3">Europe</option>
+                        </select>
+                    </div>
+        
+    
+                </div>
+                <input type="submit">
+            </form>
+            <p id="demo"></p>
+        
+            <div class="col-md-5 justify-content-center">
+                {% if decision == 'Approved' %}
+                <div class="card text-light bg-success mb-3 text-center">
+                    <div class="card-body">
+                        <h4 class="card-title">Salary Prediction:</h4>
+                        <h4 class="card-body">{{ decision }}</h4>
+                    </div>
+                </div>
+                {% elif decision == 'Denied' %}
+                <div class="card text-light bg-warning mb-3 text-center">
+                    <div class="card-body">
+                        <h4 class="card-title">Salary Prediction:</h4>
+                        <h4 class="card-body">{{ decision }}</h4>
+                    </div>
+                </div>
+                {% else %}
+                <div class="card text-light bg-dark mb-3 text-center">
+                    <div class="card-body">
+                        <h4 class="card-title">Salary Prediction:</h4>
+                        <h4 class="card-body">{{ decision }}</h4>
+                    </div>
+                </div>
+                {% endif %}
             </div>
-        </nav>
-    <form id="form_id" action='/prediction' method="POST">
-        <div class="form-group">
-            <h1>Salary Prediction</h1>
-            <div class="element">
-                <label for="user_gender">What is your gender?</label>
-                <select class="dropdown-item" id="user_gender" name="user_gender">
-                    <option value="1">Male</option>
-                    <option value="0">Female</option>
-                </select>
-                <br>
-            </div>
-            <!-- updated for=user_age, not sure about the rest -->
-            <div class="element">
-                <label for="user_age">What is your age?</label>
-                <input type="number" min="17" max="90" step="1.0" class="form-control" value=25>
-            </div>
-            <div class="element">
-                <label for="user_employment">How would you define your work sector? </label>
-                <select class="dropdown-item" id="user_employment" name="user_employment">
-                    <option value="0">Private</option>
-                    <option value="1">Public</option>
-                    <option value="2">Self-Employed</option>
-                    <option value="3">Unemployed</option>
-                </select>
-            </div>
-            <div class="element">
-                <label for="user_education">What is the highest degree or level of school you have completed?</label>
-                <select class="dropdown-item" id="user_education" name="user_education">
-                    <option value="0">High School Degree</option>
-                    <option value="1">Associate Degree</option>
-                    <option value="2">Bachelors</option>
-                    <option value="3">Graduate</option>
-                    <option value="4">Not Graduated</option>
-                    <option value="5">Preschool</option>
-                </select>
-            </div>
-            <div class="element">
-                <label for="user_marital">What is your marital status?</label>
-                <select class="dropdown-item" id="user_marital" name="user_marital">
-                    <option value="0">Single</option>
-                    <option value="1">Married</option>
-                    <option value="2">Seperated</option>
-                    <option value="3">Divorced</option>
-                    <option value="4">Widowed</option>
-                </select>
-            </div>
-            <div class="element">
-                <label for="user_occupation">What is your occupation?</label>
-                <select class="dropdown-item" id="user_occupation" name="user_occupation">
-                    <option value="0">Manager</option>
-                    <option value="1">Service</option>
-                    <option value="2">Sales</option>
-                    <option value="3">Technician</option>
-                    <option value="4">Agricultural</option>
-                    <option value="5">Clerical</option>
-                </select>
-            </div>
-            <div class="element">
-                <label for="user_ethnicity">What is your ethnicity? </label>
-                <select class="dropdown-item" id="user_ethnicity" name="user_ethnicity">
-                    <option value="0">White</option>
-                    <option value="1">Black</option>
-                    <option value="2">Asian</option>
-                    <option value="3">Aboriginal</option>
-                </select>
-            </div>
-            <div class="element">
-                <label for="user_workhour">How many hours do you work per week?</label>
-                <input type="number" min="1" max="99" step="1.0" class="form-control" value=40>
-            </div>
-            <div class="element">
-                <label for="user_continent">Which continent do you currently live?</label>
-                <select class="dropdown-item" id="user_continent" name="user_continent">
-                    <option value="0">North America</option>
-                    <option value="1">Sourth America</option>
-                    <option value="2">Asia</option>
-                    <option value="3">Europe</option>
-                </select>
-            </div>
-            <div class="element">
-                <label for="user_income">Is your income over or below 50K?</label>
-                <select class="dropdown-item" id="user_income" name="user_income">
-                    <option value="1">Below</option>
-                    <option value="0">Over</option>
-                </select>
-            </div>
-        </div>
-        <input type="submit">
-    </form>
-    <p id="demo"></p>
-    <div class="col-md-5 justify-content-center">
-        {% if decision == 'Approved' %}
-        <div class="card text-light bg-success mb-3 text-center">
-            <div class="card-body">
-                <h4 class="card-title">Salary Prediction:</h4>
-                <h4 class="card-body">{{ decision }}</h4>
-            </div>
-        </div>
-        {% elif decision == 'Denied' %}
-        <div class="card text-light bg-warning mb-3 text-center">
-            <div class="card-body">
-                <h4 class="card-title">Salary Prediction:</h4>
-                <h4 class="card-body">{{ decision }}</h4>
-            </div>
-        </div>
-        {% else %}
-        <div class="card text-light bg-dark mb-3 text-center">
-            <div class="card-body">
-                <h4 class="card-title">Salary Prediction:</h4>
-                <h4 class="card-body">{{ decision }}</h4>
-            </div>
-        </div>
-        {% endif %}
-    </div>
-    <!-- <input type="submit"> -->
-    <!-- </form> -->
-    <!-- <p id="demo"></p> -->
-</body>
-</html>
+        
+            <!-- <input type="submit"> -->
+        

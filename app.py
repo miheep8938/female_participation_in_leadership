@@ -22,6 +22,8 @@ print("\nInitiating flask server...")
 pipeline = load('model3.joblib')
 
 # form validation function for text fields
+
+
 def ReplaceChars(text):
     if text == "" or text == None:
         text = 0  # if text box is empty default the value to 0
@@ -61,25 +63,16 @@ def state():
 
     return render_template("state.html")
 
-
 @app.route("/prediction", methods=['POST', 'GET'])
 def prediction():
     # Return template and data
-
+    print("-------------beginning of prediction")
+    print("request.method = ", request.method)
     # take user input from Form as a Post request and typecast it to the proper data structure
     if request.method == 'POST':
-        try:
-            user_age = int(request.form['user_age'])
-        except ValueError:
-            return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on age field.")
-        
-        try:
-            user_workhour = int(request.form['user_workhour'])
-        except ValueError:
-            return render_template('prediction.html', title="Salary Prediction", decision="Invalid input on workhour field.")
-    
+        user_age = int(request.form['user_age'])
+        user_workhour = int(request.form['user_workhour'])
         user_gender = int(request.form['user_gender'])
-
         user_employment = int(request.form['user_employment'])
         if user_employment == 0:
             employment_private = 1
@@ -178,7 +171,7 @@ def prediction():
             employment_divorced = 0
             employment_widowed = 1
 
-        user_occupation = int((request.form['user_occupation']))
+        user_occupation = int(request.form['user_occupation'])
         if user_occupation == 0:
             employment_manager = 1
             employment_service = 0
@@ -222,7 +215,7 @@ def prediction():
             employment_agricultural = 0
             employment_clerical = 1
 
-        user_ethnicity = int((request.form['user_ethnicity']))
+        user_ethnicity = int(request.form['user_ethnicity'])
         if user_ethnicity == 0:
             employment_white = 1
             employment_black = 0
@@ -244,7 +237,7 @@ def prediction():
             employment_asian = 0
             employment_aboriginal = 1
 
-        user_continent = int((request.form['user_continent']))
+        user_continent = int(request.form['user_continent'])
         if user_continent == 0:
             employment_NA = 1
             employment_SA = 0
@@ -265,72 +258,63 @@ def prediction():
             employment_SA = 0
             employment_Asia = 0
             employment_EU = 1
-        
+
         # added 50K option
-        user_income = int(request.form['user_income'])
-
-
-
+        # user_income = int(request.form['user_income'])
 
         # put the variables into a pandas dataframe
         df = pd.DataFrame({
             'age': [user_age],
-            'workhour': [user_workhour],
-            'sex_ Male': [user_gender],
+            'workhour': [user_workhour],           
             'workclass_ Government': [employment_public],
             'workclass_ Private': [employment_private],
             'workclass_ Self': [employment_self],
             'workclass_ Without': [employment_unemployed],
-
-            'education_ High_School_Degree': [employment_highschool],
             'education_ Associate_Degree': [employment_associate],
             'education_ Bachelors': [employment_bachelors],
             'education_ Graduate': [employment_graduate],
+            'education_ High_School_Degree': [employment_highschool],
             'workclass_ Not_Graduated': [employment_not_graduated],
             'workclass_ Preschool': [employment_preschool],
-
-            'marital _Single': [employment_single],
+            'marital _Divorced': [employment_divorced],
             'marital _Married': [employment_married],
             'marital _Separated': [employment_separated],
-            'marital _Divorced': [employment_divorced],
+            'marital _Single': [employment_single],
             'marital _widowed': [employment_widowed],
-            
-            
-            
-            'occupation _Managerial': [employment_manager],
-            'occupation _Service': [employment_service],
-            'occupation _Sales': [employment_sales],
-            'occupation _Technical': [employment_technician],
             'occupation _Agricultural': [employment_agricultural],
             'occupation _Clerical': [employment_clerical],
-
-
-            'race_ White': [employment_white],
-            'race_ Black': [employment_black],
-            'race_ Asian': [employment_asian],
+            'occupation _Managerial': [employment_manager],
+            'occupation _Sales': [employment_sales],
+            'occupation _Service': [employment_service],
+            'occupation_ Serivce': [employment_service],
+            'occupation _Technical': [employment_technician],          
             'race_ Aboriginal': [employment_aboriginal],
-
-
-
-            'location_ North_America': [employment_NA],
-            'location_ South_America': [employment_SA],
+            'race_ Asian': [employment_asian],
+            'race_ Black': [employment_black],
+            'race_ Other': [employment_aboriginal],
+            'race_ White': [employment_white],      
+            'sex_ Male': [user_gender],      
             'location_ Asia': [employment_Asia],
+            'location_ Asia_America': [employment_Asia],
             'location_ Europe': [employment_EU],
-            'above/below50K_ >50K': [user_income]
+            'location_ North_America': [employment_NA],
+            'location_ Asia_America': [employment_SA],
+            'location_ North_America(Guam_USVI_etc)': [employment_NA]         
         })
-
+        
         pred_cols = list(df.columns.values)
-    
         prediction = pipeline.predict(df[pred_cols])[0]
+        # print(prediction)
         if prediction == 0:
-            decision = 'Denied'
+            decision = '<=50K'
         if prediction == 1:
-            decision = 'Approved'
+            decision = '>50K'
 
         return render_template('prediction.html', title="Salary Prediction", decision=decision)
 
-    decision = "Fill out the form above."
+    decision = "Fill out the form on the top."
     return render_template("prediction.html", title="Salary Prediction", decision=decision)
+
 
 
 @app.route("/data")
@@ -342,12 +326,6 @@ def data():
 def mlmodels():
 
     return render_template("mlmodels.html")
-
-
-@app.route("/predictml")
-def predictml():
-
-    return {"Insert": "ML function"}
 
 
 if __name__ == "__main__":
