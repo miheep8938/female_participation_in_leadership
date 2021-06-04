@@ -69,6 +69,14 @@ function addPopup(feature, layer) {
   //   "</h3><hr><p>" + new Date(feature.properties.time) + "</p><hr><p>" + feature.properties.mag + "</p>");
   return layer.bindPopup("<h3>" + feature.properties.Country + "</h3><hr><p> Year: " + feature.properties.Time + "</p><hr><p>Wage Gap: " + feature.properties.WageGap + "</p");
 }
+function getColor(d) {
+  return d < 10  ? '#edf8fb' :
+         d < 30  ? '#bfd3e6' :
+         d < 50  ? '#9ebcda' :
+         d < 70  ? '#8c96c6' :
+         d < 90  ? '#8856a7' :
+                   '#810f7c';
+}
 // Sending our earthquakes layer to the createMap function
 function createMap(genderWageGap) {
   // Define streetmap and darkmap layers
@@ -103,47 +111,70 @@ function createMap(genderWageGap) {
     zoom: 3,
     layers: [lightmap, genderWageGap]
   });
-  // Create a legend for the map based on the earthquakes data and colors
-  var legend = L.control({ position: "bottomright" });
-  legend.onAdd = function () {
-    var div = L.DomUtil.create("div", "info legend");
-    var colors = ["#E23A28", "#AB3E5B", "#EF746F", "#FFBE40", "#ECF081", "#B3CC57"];
-    var legendLabel = "<h3>Wage Gap Indicator</h3>" +
-      "<div class='labels'>" +
-      "<div class='max'>40+</div>" +
-      "<div class=\"four\">30-40</div>" +
-      "<div class=\"three\">20-30</div>" +
-      "<div class=\"two\">10-20</div>" +
-      "<div class=\"one\">0-10</div>" +
-      "</div>";
-    div.innerHTML = legendLabel;
-    var labels = [];
-    colors.forEach(function (color) {
-      labels.push("<li style='background-color:" + color + "'></li>");
-    });
-    div.innerHTML += "<ul id = 'legendcolors'>" + labels.join("") + "</ul>";
+
+//create a legend and add to map
+var legend = L.control({position: 'bottomright'});
+
+legend.onAdd = function (map) {
+
+    var div = L.DomUtil.create('div', 'info legend'),
+        grades = ["Wage Gap","40+","30-40","20-30","10-20","0-10"],
+        // labels = [<p>Wage Gap</p>];
+        colors = ["","#E23A28", "#AB3E5B", "#EF746F", "#FFBE40", "#ECF081", "#B3CC57"];
+
+    // loop through our density intervals and generate a label with a colored square for each interval
+    for (var i = 0; i < grades.length; i++) {
+        div.innerHTML +=
+            '<i style="background:' + colors[i] + '"></i> ' +
+            grades[i] + (grades[i + 1] ? '<br>' : '');
+    }
+
     return div;
-  };
-  // Append label to the map
-  legend.addTo(myMap);
+};
+
+legend.addTo(myMap);
+  
+  // // Create a legend for the map based on the earthquakes data and colors
+  // var legend = L.control({ position: "bottomright" });
+  // legend.onAdd = function (map) {
+  //   var div = L.DomUtil.create("div", "info legend");
+  //   var colors = ["#E23A28", "#AB3E5B", "#EF746F", "#FFBE40", "#ECF081", "#B3CC57"];
+  //   var grades = ["40+","30-40","20-30","10-20","0-10"]
+
+    
+  //   // var legendLabel = "<h3>Wage Gap Indicator</h3>" +
+  //   //   "<div class='labels'>" +
+  //   //   "<div class='max'>40+</div>" +
+  //   //   "<div class=\"four\">30-40</div>" +
+  //   //   "<div class=\"three\">20-30</div>" +
+  //   //   "<div class=\"two\">10-20</div>" +
+  //   //   "<div class=\"one\">0-10</div>" +
+  //   //   "</div>";
+  //   // div.innerHTML = legendLabel;
+  //   var labels = ['<h3>Wage Gap Indicator</h3>'];
+  //   // colors.forEach(function (color) {
+  //   //   labels.push("<li style='background-color:" + color + "'></li>");
+  //   // });
+  //   // div.innerHTML += "<li id='legendcolors'>" + labels.join("") + "</li>";
+
+  //   for (var i = 0; i < grades.length; i++) {
+  //     div.innerHTML +=
+  //     labels.push(
+  //     '<i class="circle" style="background:' + colors[i] + '"></i>' +
+  //     (grades[i] ? grades[i] : '+'));
+  //     console.log(colors[i]);
+
+  //   }
+  //   div.innerHTML = labels.join('<br>');
+  //   return div;
+  // };
+  // // Append label to the map
+  // legend.addTo(myMap);
   // Create a layer control
   // Pass in our baseMaps and overlayMaps
   // Add the layer control to the map
   L.control.layers(baseMaps, overlayMaps, {
     collapsed: true
   }).addTo(myMap);
-  // var newLayer = new L.LayerGroup(); 
-  // d3.json(link).then(function (data) {
-  //   console.log(data)
-  //   var year2010 = 2010
-  //   data2010 = data.features.filter(country => country.properties.Time === year2010)
-  //   console.log(data2010)
-  //   // Create a GeoJSON layer containing the features array on the earthquakeData object
-  //   // Run the onEachFeature function once for each piece of data in the array
-  //   // var earthquakes = L.geoJSON(data.features, {
-  //   var newLayer = L.geoJSON(data2010, {
-  //     onEachFeature: addPopup,
-  //     pointToLayer: addMarker
-  //   }).addTo(newLayer);
-  // });
+
 }
