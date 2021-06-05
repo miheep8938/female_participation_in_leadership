@@ -63,6 +63,7 @@ body {
 
 .col-md-offset-2 {
   margin-left: 250px;
+  margin-top: 10px;
 }
 
 hr {
@@ -128,20 +129,20 @@ h6, .h6 {
   font-size: 1rem;
 }
 
-.form-group {
+/* .form-group {
   
   border: solid;
-}
+} */
 
 .form_predict {
   margin: 200px;
 
 }
 
-
-
 #form_id {
   margin: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 
 }
 
